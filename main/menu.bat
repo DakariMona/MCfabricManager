@@ -8,7 +8,7 @@ echo --{ Minecraft Server Manager }--
 echo.
 
 echo 1. Start Minecraft Server
-if exist %choice%\fabric.jar (
+if exist C:\"Program Files"\playit_gg\bin\playit.exe (
   echo 2. Restart Playit.gg
 ) else (
   echo 2. Restart Playit.gg (unable)
